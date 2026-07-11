@@ -9,6 +9,7 @@ I build autonomous, multi-agent AI systems, and I come at it from security and i
 | Project | What it is |
 |---|---|
 | [**FSToolkit**](https://github.com/JRE-Lab/FSToolkit) | A .NET 8 WPF Windows administration toolkit: graph-driven console, 95 PowerShell actions, least-privilege operations, and a tamper-evident hash-chained audit log. A complete, buildable application. |
+| [**TALOS**](https://github.com/JRE-Lab/TALOS) | A multi-agent orchestrator that autonomously patches and self-heals a Windows Server fleet, with guardrails and automated rollback. Demonstrated on a live fleet: 46.6s fault detection, 5.3s recovery. |
 | [**quant-kalshi**](https://github.com/JRE-Lab/quant-kalshi) | A safety-first quantitative trading and risk system: a Brier-weighted model ensemble behind ~20 fail-closed risk gates and fractional-Kelly sizing. |
 | [**erebus**](https://github.com/JRE-Lab/erebus) | A multi-agent intelligence engine that builds competing theories about world events and adversarially red-teams each one through a seven-lens Shadow Board, with retrieval over pgvector. |
 | [**hydra**](https://github.com/JRE-Lab/hydra) | An autonomous vulnerability-research pipeline that chains static analysis, symbolic execution, and fuzzing, then validates each finding with a real forked-mainnet exploit before reporting. |
