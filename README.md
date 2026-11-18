@@ -17,7 +17,7 @@ I build autonomous, multi-agent AI systems, and I come at it from security and i
 
 ### Background
 
-I work in IT infrastructure and security supporting a hospital network, a regulated, high-stakes environment. I hold a B.S. in Cyber Leadership and Intelligence from Dakota State University, an NSA-designated Center of Academic Excellence in Cyber Operations, along with Security+, Network+, CASIP, and the Claude Certified Architect credential.
+I work in IT infrastructure and security supporting a hospital network, a regulated, high-stakes environment. I hold a B.S. in Cyber Leadership and Intelligence from Dakota State University, an NSA-designated Center of Academic Excellence in Cyber Operations, along with Security+, Network+, CASIP, and the Claude Certified Associate credential.
 
 I am focused on bringing agent engineering and security depth into national-security and mission-driven technical work.
 
